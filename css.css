@@ -1,0 +1,22 @@
+body{
+background-image: url("/home/hc07/Downloads/ht.jpeg");
+background-repeat: round;
+}
+
+h1 {
+  color: HoneyDew;
+font-size: 500%;
+}
+h2 {
+  color: Azure;
+  font-size: 200%;
+}
+}
+p{
+  font-family: sans-serif;
+  font-size: 180%;
+}
+h3 {
+  color: Azure;
+  font-size: 200%;
+}
